@@ -1,0 +1,14 @@
+{
+  "name": "imitation-project",
+  "version": "1.0.0",
+  "description": "Print imitation and responsive web design project",
+  "scripts": {
+    "start": "npx --yes live-server --no-browser --port=5500 ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
